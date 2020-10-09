@@ -5,7 +5,7 @@ import re
 import sys
 
 # 自分のBotのアクセストークンに置き換えてください
-TOKEN = 'NzA3NDQzMzkzNDI0MzkyMjIz.XrI45A.MH_hhzjamQMUPuCZ8gm9XMPMIx4'
+TOKEN = ''
 
 hiratokana = {
     "あ": "ア", "い": "イ", "う": "ウ", "え": "エ", "お": "オ",
