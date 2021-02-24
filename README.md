@@ -1,2 +1,2 @@
 # weather_bot
-あいうえお
+livedoorのAPIが使用できないので使えない
